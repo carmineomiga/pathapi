@@ -2,7 +2,7 @@
 #coding:utf8
 import re
 
-path = "/project/circle/chot/FOO/0010/comp/FOO_0010_comp_v001.nk"
+path = "/project/circle/shot/FOO/0010/comp/FOO_0010_comp_v001.nk"
 
 def project(path):
 	"""
